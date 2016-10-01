@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fetchsymbols"
+	"gofin/fetchsymbols"
 	"fmt"
 )
 
